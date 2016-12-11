@@ -1,5 +1,7 @@
 # SpaceShips
 
+Run ShipGame.jar to play.
+
 Controls:
 - Esc - Pause/show controls
 - Backspace - Exit
@@ -15,3 +17,4 @@ Controls:
 - 2 - Shotgun
 - 3 - Flamethrower
 - 4 - Mines
+- ~~5 - Rockets~~
